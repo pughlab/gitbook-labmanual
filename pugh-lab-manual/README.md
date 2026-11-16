@@ -1,16 +1,7 @@
 ---
-description: Lab documentation
+description: Live updates from various lab resources and activities from around the lab.
 ---
 
-# Page 1
+# PughLab Dashboard
 
-Hello pughlab.&#x20;
-
-This is the first page of the lab document.
-
-This is a second test.
-
-### Set up your space
-
-1. Register for a pughlab slack account
-2.
+<figure><img src="https://github.com/pughlab/disk_usage/blob/main/usage_plots.png" alt=""><figcaption></figcaption></figure>
