@@ -166,7 +166,7 @@ mnt	/Users/jbruce/Desktop/mnt
 **Some useful IP addresses:**
 
 * H4H login node IP: 172.27.23.163
-* H4H data transfer node (h4huhndata1) ip: 172.27.23.173 ← use this for mounting the H4H filesystem
+* H4H data transfer node ssh user@h4huhnlogin1.uhnresearch.ca ip: 172.27.23.173 ← use this for mounting the H4H filesystem
 * mordor head node IP: 192.168.198.99
 * mordor Slurm login node IP: -p 10022 username@192.168.198.99
 * samwise ip: 205.210.128.25
