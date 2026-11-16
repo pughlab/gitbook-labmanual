@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Pugh Lab Manual
+  structure:
+    - type: space
+      key: space-1
+      title: Pugh Lab Manual
+      path: pugh-lab-manual
+      default: true
+      content:
+        directory: ./pugh-lab-manual
